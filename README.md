@@ -1,2 +1,2 @@
-## mas.githup.io
-[yangseungmi.github.io/resume](https://yangseungmi.github.io/resume/)
+
+## [yangseungmi.github.io/resume](https://yangseungmi.github.io/resume/)
