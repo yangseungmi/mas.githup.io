@@ -7,7 +7,7 @@ baseurl: "//" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
-paginate: 55 # pagination based on number of posts
+paginate: 1 # pagination based on number of posts
 paginate_path: "page/:num"
 highlighter: pygments
 gems: [jekyll-paginate, jekyll-coffeescript]
