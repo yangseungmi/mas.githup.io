@@ -7,7 +7,7 @@ baseurl: "//" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
-paginate: 5 # pagination based on number of posts
+paginate: 55 # pagination based on number of posts
 paginate_path: "page/:num"
 highlighter: pygments
 gems: [jekyll-paginate, jekyll-coffeescript]
@@ -26,7 +26,7 @@ github_username:
 
 # Theming options
 # These settings are mandatory.
-theme:              'blue-pink'
+theme:              'pink-pink'
 # drawer theming
 drawer:
   text_color:       'grey-600'
