@@ -10,8 +10,8 @@ categories: Documentation
 웹 백엔드 개발자로 일하고 있는 양승미입니다
 개발하면서 성취를 느끼고, 공부하면서 확신을 가지는 개발자입니다
 ```
-Work Experience.
------------------
+## Work Experience.
+
 ### 카카오게임즈
 ##### 플랫폼 개발팀
 ##### 2016.01 - 2020.11
@@ -31,8 +31,8 @@ Work Experience.
 리눅스 서버 IDC 이전 ( 2017.6 ~ 2017.12 )
  * 서버 : CentosOS Linux,, Apache Tomcat
 
-Skills.
------------------
+## Skills.
+
 ### Communication.
  * 직위나 포지션에 상관없이 경청하는 자세로 듣습니다.
  * 상대방의 입장에서 생각하고 이야기합니다.
