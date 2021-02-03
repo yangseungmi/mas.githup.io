@@ -17,9 +17,9 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: # your name
+author: seungmi
 bio:    # your bio
-email:
+email: 010562@hanmail.net
 email_md5: # md5 hash of your email
 twitter_username:
 github_username:
